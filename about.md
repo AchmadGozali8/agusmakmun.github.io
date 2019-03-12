@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Fullstack Developer with 1,5 years experience on web dev, and more than 2 years on scripting with python. Interest in software development, data analysis, cryptocurrency, and tech event. Passionate to implementing wide variety of web application projects, good cooperation and communication skills. Now, I am doing more on backend.
 
-email: agus[at]python.web.id
+email: achmadg6[at]gmail.com

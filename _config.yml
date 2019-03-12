@@ -2,7 +2,7 @@ title: Portofolio
 description: My Personal Portofolio
 author: Achmad Gozali
 github: https://github.com/achmadgozali8
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+about: Fullstack Developer with 1,5 years experience on web dev, and more than 2 years on scripting with python. Interest in software development, data analysis, cryptocurrency, and tech event. Passionate to implementing wide variety of web application projects, good cooperation and communication skills.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -16,36 +16,36 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    # - icon: fa-facebook
+    #   link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/gozali_ichal"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/achmad-gozali-32b840130/"
+    # - icon: fa-stack-exchange
+    #   link: "#"
     - icon: fa-github
       link: "https://github.com/achmadgozali8"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+# share:
+#   twitter_username: github.io
+#   fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #   url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
 
-url: "https://achmadgozali8.github.io/portofolio"
+url: "https://achmadgozali8.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
