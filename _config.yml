@@ -4,7 +4,7 @@ author: Achmad Gozali
 github: https://github.com/achmadgozali8
 about: Fullstack Developer with 1,5 years experience on web dev, and more than 2 years on scripting with python. Interest in software development, data analysis, cryptocurrency, and tech event. Passionate to implementing wide variety of web application projects, good cooperation and communication skills.
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-132799978-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -54,4 +54,4 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
-    envs: ['development']
+    envs: ['production']
